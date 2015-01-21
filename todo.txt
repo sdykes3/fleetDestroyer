@@ -1,0 +1,9 @@
+Palette shift planet bg
+Flash color when hit
+Alpha shade pause scrn
+SoundB cutting off
+PlayHit explosion pos
+	account for movemnt
+Truly random start
+
+Cutscene
